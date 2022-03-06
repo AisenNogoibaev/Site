@@ -75,7 +75,7 @@ export function About(){
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>
-          <img src="https://portfolio-joaotulio.vercel.app/img/foto_antiga.jpg" alt="Imagem de perfil" />
+          <img src="https://funart.pro/uploads/posts/2020-06/1592791474_p-multfilm-megamozg-9.jpg" alt="Imagem de perfil" />
         </ScrollAnimation>
       </div>
     </Container>
